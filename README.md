@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Manuel Cabrera</h1>
-<h3 align="center">Desarrollador Web Full Stack | Apasionado por la Tecnología y la Innovación</h3>
+<h3 align="center">Desarrollador Web | Apasionado por la Tecnología y la Innovación</h3>
 
 ---
 
